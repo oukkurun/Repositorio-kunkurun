@@ -1,0 +1,2 @@
+assets: 435398
+terminados: 0
